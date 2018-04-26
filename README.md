@@ -3,8 +3,8 @@
   
 ## Installation instructtions
   1. <a href='https://www.python.org/downloads/'>Python</a>
-  2. run command <b>pip install selenium<b> to install Selenium 
-  3. run command <b>pip install beautifulsoup4<b> to install BeautifulSoup4
+  2. run command <b>pip install selenium</b> to install Selenium 
+  3. run command <b>pip install beautifulsoup4</b> to install BeautifulSoup4
   4. Google Chrome browser with Chrome webdriver is required to run the script, the instructions to install webdriver are available at http://selenium-python.readthedocs.io/installation.html
 
 ## How to run the script
